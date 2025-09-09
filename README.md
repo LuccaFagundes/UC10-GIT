@@ -12,3 +12,7 @@ Aula Do Professor Lucas em GIT
 **THE EYE IS EVER WATCHING**
 <img src="./pain.png">
 
+
+<a href="https://regretevator.fandom.com/wiki/Gift_of_The_Eradicated_(Item)"> <img src="./pain.png"> </a>
+
+
