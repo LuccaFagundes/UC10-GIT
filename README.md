@@ -10,7 +10,7 @@ Aula Do Professor Lucas em GIT
 <p>The Gift of The Eradicated appears to be a red-and-black colored orb, surrounded by a red aura with red/white sparkles floating around. An entity constructed of a wet floor sign and wire coat hangers is seen holding the orb.</p>
 
 **THE EYE IS EVER WATCHING**
-<a href="https://regretevator.fandom.com/wiki/Gift_of_The_Eradicated_(Item)"> <img src="./pain.png"> </a>
+<a href="[https://regretevator.fandom.com/wiki/Gift_of_The_Eradicated_(Item)](https://www.youtube.com/watch?v=5yEWEhSnElw)"> <img src="./pain.png"> </a>
 
 
 
